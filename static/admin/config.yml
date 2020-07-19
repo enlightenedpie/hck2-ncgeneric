@@ -12,7 +12,7 @@ backend:
 media_folder: static/assets
 public_folder: /assets
 
-logo_url: https:.//.localhost:8000/assets/svg/logo.svg
+logo_url: http://localhost:8000/assets/svg/logo.svg
 
 collections:
   - name: "blog"
